@@ -1,0 +1,7 @@
+C:\Users\Tubik\source\repos\CSharpCourse\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\Tubik\source\repos\CSharpCourse\Conditions\bin\Debug\Conditions.exe
+C:\Users\Tubik\source\repos\CSharpCourse\Conditions\bin\Debug\Conditions.pdb
+C:\Users\Tubik\source\repos\CSharpCourse\Conditions\obj\Debug\Conditions.csproj.AssemblyReference.cache
+C:\Users\Tubik\source\repos\CSharpCourse\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Tubik\source\repos\CSharpCourse\Conditions\obj\Debug\Conditions.exe
+C:\Users\Tubik\source\repos\CSharpCourse\Conditions\obj\Debug\Conditions.pdb
