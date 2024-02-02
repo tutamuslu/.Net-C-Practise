@@ -10,18 +10,25 @@ namespace Classes
     {
         static void Main(string[] args)
         {
+           
+
+            CustomerManager custonerManager = new CustomerManager();
+            custonerManager.Add();
+            custonerManager.Update();
+
+            ProductManager productManager = new ProductManager(); 
+            productManager.Add();
+            productManager.Update();
+
+            Customer customer = new Customer();
+            customer.Name = "Tuğba";
+            customer.Address = "Adress";
+            customer.City = "London";
+
+            Console.WriteLine(customer.Name + " "+ customer.Address);
+            
+
+            Console.ReadLine();
         }
     }
-
-    class CustomerManager
-    {
-        public void Add()
-        {
-            Console.WriteLine("Customer Added");
-        }
-
-
-}
-
-
 }

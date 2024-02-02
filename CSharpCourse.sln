@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{A981CFA8-14A8-48E6-BC6C-266913F543D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{CCC75784-913D-4E2F-A3BB-CE5CB8BEE3A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A981CFA8-14A8-48E6-BC6C-266913F543D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A981CFA8-14A8-48E6-BC6C-266913F543D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A981CFA8-14A8-48E6-BC6C-266913F543D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC75784-913D-4E2F-A3BB-CE5CB8BEE3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC75784-913D-4E2F-A3BB-CE5CB8BEE3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC75784-913D-4E2F-A3BB-CE5CB8BEE3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC75784-913D-4E2F-A3BB-CE5CB8BEE3A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
